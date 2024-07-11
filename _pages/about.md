@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in Electrical and Computer Engineering at Purdue University. My research interests are at the intersection of control theory and machine learning. I earned my bachelor's degree in Automation and Control from Tashkent State Transport University, Uzbekistan, in 2023. 
+I am a master's student in Electrical and Computer Engineering at Purdue University. My research interests are at the intersection of control theory and machine learning. I have a strong background and deep interest in mathematics. I earned my bachelor's degree in Automation and Control from Tashkent State Transport University, Uzbekistan, in 2023. 
