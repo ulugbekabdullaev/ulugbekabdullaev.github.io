@@ -21,13 +21,13 @@ repository               : "ulugbekabdullaev/ulugbekabdullaev.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_2024-07-12_00-05-461.jpg"
+  avatar           : "profile.png"
   name             : "Ulugbek Abdullaev"
   pronouns         : # example: "he/him"  
   bio              : "Master's Student in Electrical and Computer Engineering at Purdue University"
   location         : "West Lafayette, Indiana, USA"
   employer         : "Purdue University"
-  uri              : "https://www.purdue.edu"
+  url              : https://www.purdue.edu
   email            : "uabdull@purdue.edu" 
 
  
