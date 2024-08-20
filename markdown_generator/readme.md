@@ -4,4 +4,4 @@ These .ipynb files are Jupyter notebook files that convert a TSV containing stru
 
 
 
-
+<img scr="./images/photo_2024-07-12_00-05-461.jpg" width=400 height=400>
