@@ -21,7 +21,7 @@ repository               : "ulugbekabdullaev/ulugbekabdullaev.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/ulugbekabdullaev/ulugbekabdullaev.github.io/blob/master/images/photo_2024-07-12_00-05-461.jpg"
+  avatar           : "https://github.com/ulugbekabdullaev/ulugbekabdullaev.github.io/blob/master/images/photo_2024-07-12_00-05-461.jpg?raw=true"
   name             : "Ulugbek Abdullaev"
   pronouns         : # example: "he/him"  
   bio              : "Master's Student in Electrical and Computer Engineering at Purdue University"
